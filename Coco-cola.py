@@ -44,7 +44,7 @@ st.write("Explore iconic Coca-Cola marketing campaigns and decode their brand st
 campaigns = {
     "Share a Coke": {
         "year": 2011,
-        "image": "images/shareacoke.png",
+        "image": "images/shareacoke.jpeg",
         "description": "Launched in Australia, this campaign replaced the logo with first names, encouraging personal sharing.",
         "why_iconic": [
             "Boosted sales by 7% in Australia and reversed a decade-long decline in the US.",
@@ -57,7 +57,7 @@ campaigns = {
 
     "Holidays are Coming": {
         "year": 1995,
-        "image": "images/holiday.png",
+        "image": "images/holiday.jpeg",
         "description": "Introduced the iconic Coca-Cola Christmas truck, lighting up festive cheer every year.",
         "why_iconic": [
             "25% increase in sales during holidays.",
